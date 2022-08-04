@@ -1,5 +1,5 @@
 {
-  "name": "mdb-react-template",
+  "name": "@mdbootstrap/react-registration-form",
   "version": "4.0.0",
   "description": "template for mdb-react-ui-kit",
   "private": true,
@@ -18,8 +18,20 @@
     "eject": "react-scripts eject"
   },
   "keywords": [
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
     "template",
-    "react"
+    "select",
+    "radio",
+    "upload",
+    "address",
+    "modal",
+    "css",
+    "html",
+    "js"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -34,5 +46,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-registration-form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-registration-form/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/registration-form/"
 }
